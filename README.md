@@ -3,6 +3,8 @@
 A Simple Feedback App where users can submit their feedback for a product or
 service, edit or delete them.
 
+## live demo: https://feedback-app-eight-ashy.vercel.app/
+
 ## What used
 
 - HTML
